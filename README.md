@@ -3,7 +3,6 @@
 <br>
 
 - 👀 I’m interested in: 
-
   - cybersecurity 
   - automation (python, powershell, bash, etc.)
   - productivity
@@ -20,12 +19,12 @@
 
 <br>
 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on: 
   - Not sure but I'm open to projects in my downtime just shoot me a message
 
 <br>
 
-- 📫 How to reach me ...
+- 📫 How to reach me:
   - Github: https://github.com/benyochem
   - Linkedin: https://www.linkedin.com/in/benyochem/
   - Twitter: https://twitter.com/benyochem
